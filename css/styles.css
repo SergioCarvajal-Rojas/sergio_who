@@ -1,0 +1,169 @@
+a {
+  color: #FFFFFF;
+  font-family: 'Questrial', sans-serif;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #665C84;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Questrial', sans-serif;
+}
+
+div {
+  margin: 0;
+}
+
+h1 {
+  font-size: 5.625rem;
+  color: #FF7657;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-family: 'Dancing Script', cursive;
+}
+
+h2 {
+  font-size: 2.5rem;
+  font-weight: normal;
+  color: #FF7657;
+  font-family: 'Reem Kufi', sans-serif;
+  margin: 0 0 10 0;
+}
+
+h3 {
+  color: #FF7657;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 3%;
+  margin: 50px auto;
+}
+
+p {
+  font-family: 'Questrial', sans-serif;
+  line-height: 2;
+}
+
+.bottom-container {
+  background-color: #665C84;
+  padding-top: 50px;
+  padding-bottom: 5px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  top: 230px;
+}
+
+.butn {
+  -webkit-border-radius: 21;
+  -moz-border-radius: 21;
+  border-radius: 21px;
+  font-family: 'Questrial', sans-serif;
+  color: #000000;
+  font-size: 20px;
+  background: #ffba5a;
+  padding: 15px 25px 15px 25px;
+  text-decoration: none;
+}
+
+.butn:hover {
+  background: #ffd49c;
+  text-decoration: none;
+}
+
+.city {
+  margin-bottom: 0;
+}
+
+.contact-me {
+  width: 35%;
+  margin: 40px auto 60px;
+}
+
+.copyright {
+  color: #fcf9ed;
+  font-size: 0.80rem;
+  padding: 20px 0;
+}
+
+.experience {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+}
+
+.fixed-container {
+  background-color: #ffba5a;
+  position: fixed;
+  margin: 0;
+  width: 2000px;
+  height: 50px;
+}
+
+.hobbies {
+  position: absolute;
+  top: 20px;
+  left: 120px;
+}
+
+.introduction {
+  width: 35%;
+  margin: auto;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.skill1 {
+  width: 30%;
+  float: left;
+  margin-right: 10px;
+}
+
+.skill2 {
+  width: 30%;
+  float: right;
+  margin-left: 10px;
+  margin-bottom: 20px;
+}
+
+.skill3 {
+  width: 30%;
+  float: left;
+  margin-right: 10px;
+}
+
+.title {
+  margin-top: 0;
+  margin-bottom: 70px;
+}
+
+.top-container {
+  background-color: #FCF9ED;
+  padding-top: 100px;
+}
+
+.top-cloud {
+  margin-top: 20px;
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
